@@ -1,0 +1,29 @@
+.intro{
+    color: aliceblue;
+    width: 100%;
+     padding: 32rem 2rem 4rem 2rem;
+}
+
+.intro h1{ 
+    padding-inline-start: 40px;
+    font-weight: 700px;
+  font-size: 2.5rem;
+  line-height :1.1em; 
+  max-width: 18ch;
+}
+.intro p{
+     padding-inline-start: 40px;
+    font-size: 1.7rem;
+  line-height: 1.5em;
+  max-width: 40ch;
+}
+.intro a{
+    color: whitesmoke;
+     padding-inline-start: 40px;
+      font-weight: 700;
+    font-size: 1.6rem;
+}
+
+body {
+  background: linear-gradient(to bottom right, #0000ff,#04b0e5);
+}
